@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: anandcpm
+  repo: go-jx
+  url: https://github.com/anandcpm/go-jx.git
+  version: ""
+  versionURL: ""
